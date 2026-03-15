@@ -1,6 +1,7 @@
 📊 HR Analytics Dashboard – Power BI Project
 
 📌 Project Overview
+
 This project showcases an HR Analytics Dashboard built using Microsoft Power BI.  
 The dashboard analyzes employee data to uncover insights about workforce trends, employee attrition, salary distribution, and demographics.
 
@@ -59,7 +60,7 @@ The dataset includes employee-related attributes such as:
 
  📁 Project Files
 - HR Analytics Dashboard.pbix
-- HR_Analytic_data.csv
+- HR_Analytic_Data.csv
 - Dashboard.png
 - README.md
 
