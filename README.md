@@ -58,9 +58,9 @@ The dataset includes employee-related attributes such as:
 
 
  📁 Project Files
-- HR_Analytics_Dashboard.pbix
-- HR Dataset
-- Dashboard Screenshot
+- HR Analytics Dashboard.pbix
+- HR_Analytic_data.csv
+- Dashboard.png
 - README.md
 
 
